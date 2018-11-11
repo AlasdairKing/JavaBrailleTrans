@@ -16,6 +16,7 @@ You will need them to actually do any translation.
 
 JavaDoc documentation
 :https://www.alasdairking.me.uk/brailletrans/docs/index.html
+
 Pre-compiled classes
 :https://www.alasdairking.me.uk/brailletrans/translate.zip
 
@@ -28,5 +29,6 @@ BrailleTrans is based on the work of Paul Blenkhorn at the University of Manches
 
 Blenkhorn, Paul
 :"A System for Converting Braille into Print", IEEE Transactions on Rehabilitation Engineering, Vol 3, No 2, pp 215 - 221, June 1995.
+
 Blenkhorn, Paul
 :"A System for Converting Print into Braille", IEEE Transactions on Rehabilitation Engineering, Vol 5, No 2, pp121 - 129, June 1997.
