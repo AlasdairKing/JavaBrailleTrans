@@ -15,11 +15,10 @@ You can find translation language files in translate.zip (not in this folder).
 You will need them to actually do any translation.
 
 JavaDoc documentation
-:https://www.alasdairking.me.uk/brailletrans/docs/index.html
+: https://www.alasdairking.me.uk/brailletrans/docs/index.html
 
 Pre-compiled classes
-:https://www.alasdairking.me.uk/brailletrans/translate.zip
-
+: https://www.alasdairking.me.uk/brailletrans/translate.zip
 
 Read King-TextBrailleTranslation.pdf for full information on usage. 
 
@@ -28,7 +27,10 @@ Read King-TextBrailleTranslation.pdf for full information on usage.
 BrailleTrans is based on the work of Paul Blenkhorn at the University of Manchester. The following publications contain a full description of the algorithm behind BrailleTrans and the complete tables for British English to Braille and vice-versa.
 
 Blenkhorn, Paul
-:"A System for Converting Braille into Print", IEEE Transactions on Rehabilitation Engineering, Vol 3, No 2, pp 215 - 221, June 1995.
+: "A System for Converting Braille into Print", IEEE Transactions on Rehabilitation Engineering, Vol 3, No 2, pp 215 - 221, June 1995.
 
 Blenkhorn, Paul
-:"A System for Converting Print into Braille", IEEE Transactions on Rehabilitation Engineering, Vol 5, No 2, pp121 - 129, June 1997.
+: "A System for Converting Print into Braille", IEEE Transactions on Rehabilitation Engineering, Vol 5, No 2, pp121 - 129, June 1997.
+
+Original project page
+* https://www.alasdairking.me.uk/brailletrans/index.htm
