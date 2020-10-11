@@ -1,2 +1,5 @@
 *.pdf linguist-documentation
 uk/ac/umist/co/brailletrans/*.html linguist-documentation
+uk/ac/umist/co/brailletrans/*.html linguist-documentation
+uk/ac/umist/co/brailletrans/utils/*.html linguist-documentation
+uk/ac/umist/co/brailletrans/utils/uk/ac/umist/co/brailletrans/utils/*.html linguist-documentation
