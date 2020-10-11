@@ -34,3 +34,5 @@ Blenkhorn, Paul
 
 Original project page
 * https://www.alasdairking.me.uk/brailletrans/index.htm
+
+Alasdair King
